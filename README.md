@@ -1,1 +1,3 @@
-Product Page - Using Html, Css, Javascript.
+Product Page - Using Html, CSS, and Javascript.
+
+    https://productpagedesigns.netlify.app
